@@ -22,4 +22,4 @@ The initial dataset was collected from various sources, including online reposit
 ## License
 This dataset is released under the MIT License. You are free to use, modify, and distribute the dataset, but we are not responsible for any consequences resulting from the use of this dataset.
 
-/assets/images/logo.png
+
