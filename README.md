@@ -9,7 +9,7 @@ The dataset contains two folders:
 urldata - This folder contains CSV files of various phishing URLs and their associated features. These features include the domain name, URL length, the presence of symbols, the presence of redirection, etc.
 
 urldata1 - This folder contains CSV files of various legitimate URLs and their associated features.
-Each CSV file contains two columns: URL and Label. The URL column lists the URLs, and the Label column indicates whether the URL is phishing (1) or not phishing (0).
+Each CSV file contains two columns: URL and Label. The URL column lists the URLs, and the Label column indicates whether the URL is phishing (bad) or not phishing (0).
 
 ## How to Use
 To use this database, you can download the CSV files and use them to train and test your own anti-phishing machine learning model.
