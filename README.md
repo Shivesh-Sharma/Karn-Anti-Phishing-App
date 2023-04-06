@@ -1,5 +1,5 @@
 
-# Karn Anti-Phishing App Database
+# Karn Anti-Phishing App 
 
 This repository contains data sets of phishing and not phishing websites that are used to train and test the machine learning model for Karn Anti-Phishing App.
 
